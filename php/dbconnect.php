@@ -4,10 +4,6 @@ class Database{
     private $host = "localhost";
     private $user = "root";
     private $passwd = "";
-    //fms server
-    // private $user = "sq20mgtg2";
-    // private $passwd = "Sq20T.*836.gth";
-
 
     //connect to SQUARE database
     private $db_name = "fms_square_db";
